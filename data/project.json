@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "fgarcia-eng",
+    "is_private": false,
+    "title": "La Negra Angustias: Annotated Edition of a Mexican Golden Age Film",
+    "description": "A digital annotated edition of Matilde Landeta’s 1950 film \"La Negra Angustias,\" exploring gender nonconformity, racial difference, and postrevolutionary cinematic nationhood in Mexico. Built using AVAnnotate and IIIF, this public humanities project pairs audiovisual annotations with metadata and contextual analysis.",
+    "language": "en",
+    "slug": "la-negra-angustias-annotations",
+    "creator": "fgarcia-eng",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-09-14T20:09:54.216Z",
+    "updated_at": "2025-09-14T20:09:54.216Z"
   }
 }
